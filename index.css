@@ -1,0 +1,9 @@
+#section1{
+    border: 1px solid black;
+    background-color: darkolivegreen;
+}
+
+.food {
+    color: green;
+    background-image: url("https://t3.ftcdn.net/jpg/03/75/89/32/360_F_375893262_zxeSLy0Vduyael1kMvEdgwtAtVm742Zu.jpg")
+}
